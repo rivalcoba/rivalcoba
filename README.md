@@ -1,5 +1,9 @@
-### Hi there 👋
-
+# Hi there 👋
+- 👋 Hi, I’m @rivalcoba-dev, I work as a theacher at TecNM-ITGAM 
+- 👀 I’m interested in Javascript, Node, Typescript, OpenCV, Deep Learning.
+- 🌱 I’m currently learning Vue 3, Typescrpit
+- 💞️ I’m looking to collaborate on Javascript iniciatives and Vue evangelization in México
+- 📫 How to reach me jorge.rr@gamadero.tecnm.mx
 <!--
 **rivalcoba/rivalcoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
